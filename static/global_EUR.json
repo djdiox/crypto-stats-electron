@@ -1,0 +1,42 @@
+{
+  "status": {
+    "timestamp": "2021-05-23T06:39:32.714Z",
+    "error_code": 0,
+    "error_message": null,
+    "elapsed": 18,
+    "credit_count": 1,
+    "notice": null
+  },
+  "data": {
+    "active_cryptocurrencies": 5261,
+    "total_cryptocurrencies": 10008,
+    "active_market_pairs": 41169,
+    "active_exchanges": 381,
+    "total_exchanges": 1373,
+    "eth_dominance": 16.98033845014,
+    "btc_dominance": 45.270707245229,
+    "defi_volume_24h": 11589127773.61128,
+    "defi_volume_24h_reported": 11589127773.61128,
+    "defi_market_cap": 71444966844.91899,
+    "defi_24h_percentage_change": -37.688667111112,
+    "stablecoin_volume_24h": 117720775457.77515,
+    "stablecoin_volume_24h_reported": 117720775457.77515,
+    "stablecoin_market_cap": 95756035937.44778,
+    "stablecoin_24h_percentage_change": -39.591477062402,
+    "derivatives_volume_24h": 181464805117.30588,
+    "derivatives_volume_24h_reported": 181464805117.30588,
+    "derivatives_24h_percentage_change": -43.503372721325,
+    "quote": {
+      "EUR": {
+        "total_market_cap": 1241899182316.1052,
+        "total_volume_24h": 119712458210.56322,
+        "total_volume_24h_reported": 119712458210.56322,
+        "altcoin_volume_24h": 77959113169.03387,
+        "altcoin_volume_24h_reported": 77959113169.03387,
+        "altcoin_market_cap": 679682639208.8922,
+        "last_updated": "2021-05-23T06:39:16.000Z"
+      }
+    },
+    "last_updated": "2021-05-23T06:35:17.999Z"
+  }
+}
